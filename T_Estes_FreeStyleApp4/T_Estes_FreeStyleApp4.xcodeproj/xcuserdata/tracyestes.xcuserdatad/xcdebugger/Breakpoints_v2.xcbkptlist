@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/SecondViewController.swift"
+            timestampString = "614690735.1596251"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/SecondViewController.swift"
+            timestampString = "614690735.160103"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/SecondViewController.swift"
+            timestampString = "614690735.160414"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/SecondViewController.swift"
+            timestampString = "614690735.160732"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/SecondViewController.swift"
+            timestampString = "614690875.7275749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944279"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "MovieViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693308.559693"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693308.564559"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693308.568971"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693308.573719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; T_Estes_FreeStyleApp4.MovieViewController"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693308.5777659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;T_Estes_FreeStyleApp4.MovieViewController&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693308.581587"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "307">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944388"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944456"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "MovieViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944518"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944631"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "MovieViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944683"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944738"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "T_Estes_FreeStyleApp4/MovieViewController.swift"
+            timestampString = "614693939.944793"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MovieViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693396.140125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693396.145749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693396.147869"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.movieArray.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693396.149608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; T_Estes_FreeStyleApp4.MovieViewController"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693396.151324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "T_Estes_FreeStyleApp4.MovieViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;T_Estes_FreeStyleApp4.MovieViewController&gt;"
+                  moduleName = "T_Estes_FreeStyleApp4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tracyestes/Desktop/T_Estes_FreeStyleApp4/T_Estes_FreeStyleApp4/MovieViewController.swift"
+                  timestampString = "614693396.1530271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "307">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
